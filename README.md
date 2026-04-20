@@ -56,3 +56,7 @@ chmod +x iac.sh
 
 # Rodar o script como administrador
 sudo ./iac.sh
+
+http://127.0.0.1/#/
+
+
