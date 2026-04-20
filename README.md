@@ -3,9 +3,17 @@
 Manual de automação para provisionamento de servidores web com foco em segurança e eficiência.
 
 ## 📁 Estrutura do Repositório
-.
-├── 📄 README.md          # Documentação e Guia de Uso
-└── 📄 iac.sh             # Script de Automação de Infraestrutura (Bash)
+## 📁 Estrutura do Repositório
+
+```text
+
+
+📂 linux-servidor
+├── 📁 scripts
+│   └── 📄 iac.sh        # Script de Automação de Infraestrutura
+└── 📄 README.md         # Documentação e Guia de Uso
+
+```
 
 ---
 
