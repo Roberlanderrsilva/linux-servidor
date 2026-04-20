@@ -1,4 +1,21 @@
-# linux-servidor
+# 🛡️ Linux Server Automation Framework
+
+Manual de automação para provisionamento de servidores web com foco em segurança e eficiência.
+
+## 📁 Estrutura do Repositório
+.
+├── 📄 README.md          # Documentação e Guia de Uso
+└── 📄 iac.sh             # Script de Automação de Infraestrutura (Bash)
+
+---
+
+### 🚀 Funcionalidades Principais
+* **Provisionamento:** Instalação automatizada do Apache2.
+* **Segurança:** Validação de privilégios de superusuário (Root).
+* **Compliance:** Atualização completa de pacotes e dependências.
+
+---
+**Desenvolvido por RRSilva** | *Eng. de Software | Especialista em Automação de Infraestrutura* 🐧💻🚀# linux-servidor
 Script para criar um servidor web no Apache
 Neste projeto aprendemos criar um script que gera um servidor web automaticamente
 Com a instrução do Prof. Denilson Bonatti
@@ -20,6 +37,10 @@ O script `iac.sh` executa as seguintes tarefas automaticamente:
 
 ## 🚀 Como utilizar
 Para rodar este projeto no seu Linux, abra o terminal e digite:
+
+📂 linux-servidor
+├── 📄 README.md          # Manual de instruções (este arquivo)
+└── 📄 iac.sh             # Script principal de automação
 
 ```bash
 # Dar permissão de execução ao script
