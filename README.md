@@ -4,6 +4,10 @@
 Para visualizar o servidor após o provisionamento, utilize o endereço abaixo:
 
 [![Acessar Localhost](https://img.shields.io/badge/Acessar_Projeto-127.0.0.1-blue?style=for-the-badge&logo=apache)](http://127.0.0.1/)
+
+
+VÍDEO DEMONSTRAÇÃO:
+
 ---
 
 Manual de automação para provisionamento de servidores web com foco em segurança e eficiência.
