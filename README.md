@@ -4,8 +4,12 @@
 Para visualizar o servidor após o provisionamento, utilize o endereço abaixo:
 * **Localhost:** [Visualizar Projeto Rodando](http://127.0.0.1/)
 
+* 
+<p align="center">
+  <a href="http://127.0.0.1/" target="_blank"><b>🌐 Acessar Projeto (Nova Aba)</b></a>
+</p>
+
 ---
-[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/)
 
 Manual de automação para provisionamento de servidores web com foco em segurança e eficiência.
 
