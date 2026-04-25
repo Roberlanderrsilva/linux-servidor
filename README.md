@@ -8,6 +8,10 @@ Para visualizar o servidor após o provisionamento, utilize o endereço abaixo:
 
 VÍDEO DEMONSTRAÇÃO:
 
+https://github.com/user-attachments/assets/badf9093-d051-43cd-aeec-4c978e5cfa39
+
+
+
 ---
 
 Manual de automação para provisionamento de servidores web com foco em segurança e eficiência.
