@@ -42,6 +42,8 @@ O script `iac.sh` executa as seguintes tarefas automaticamente:
 * **Shell Script (Bash)**
 * **Linux (Ubuntu/Mint)**
 * **Apache Web Server**
+* 
+[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/)
 
 ## 🚀 Como utilizar
 Para rodar este projeto no seu Linux, abra o terminal e digite:
@@ -51,9 +53,10 @@ Para rodar este projeto no seu Linux, abra o terminal e digite:
 └── 📄 iac.sh             # Script principal de automação
 
 ```bash
-[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/)
+
 # Dar permissão de execução ao script
 chmod +x iac.sh
 
 # Rodar o script como administrador
 sudo ./iac.sh
+[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/)
