@@ -9,11 +9,7 @@ Para visualizar o servidor após o provisionamento, utilize o endereço abaixo:
 Manual de automação para provisionamento de servidores web com foco em segurança e eficiência.
 
 ## 📁 Estrutura do Repositório
-## 📁 Estrutura do Repositório
-
 ```text
-
-
 📂 linux-servidor
 ├── 📁 scripts
 │   └── 📄 iac.sh        # Script de Automação de Infraestrutura
