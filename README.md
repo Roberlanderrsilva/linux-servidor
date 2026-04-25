@@ -1,5 +1,12 @@
 # 🛡️ Linux Server Automation Framework
 
+### 🔗 Link de Visualização
+Para visualizar o servidor após o provisionamento, utilize o endereço abaixo:
+* **Localhost:** [Visualizar Projeto Rodando](http://127.0.0.1/)
+
+---
+[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/)
+
 Manual de automação para provisionamento de servidores web com foco em segurança e eficiência.
 
 ## 📁 Estrutura do Repositório
@@ -42,9 +49,7 @@ O script `iac.sh` executa as seguintes tarefas automaticamente:
 * **Shell Script (Bash)**
 * **Linux (Ubuntu/Mint)**
 * **Apache Web Server**
-* 
-
-[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/)
+  
 
 ## 🚀 Como utilizar
 Para rodar este projeto no seu Linux, abra o terminal e digite:
