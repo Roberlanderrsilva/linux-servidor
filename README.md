@@ -57,6 +57,6 @@ chmod +x iac.sh
 # Rodar o script como administrador
 sudo ./iac.sh
 
-[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/#/)
+[🚀 Clique aqui para abrir o site (Localhost)](http://127.0.0.1/)
 
 
